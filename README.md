@@ -1,7 +1,7 @@
 # WRF-toolbox
-A set of functions that can be used in WRF postprocessing
+A set of functions that can be used in WRF postprocessing. Still under development.
 
-currently this repository has 
+Currently this repository has the followings:
 
 |function|description|
 |---|---|
